@@ -28,3 +28,13 @@
 .arrow_open {
   transform: rotate(0deg);
 }
+
+// TODO: Change styles for diff button states
+
+.container:active {
+	background-color: #787878;
+}
+
+.container:hover {
+	background-color: #FFC802;
+}
